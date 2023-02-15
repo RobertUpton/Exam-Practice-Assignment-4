@@ -1,4 +1,3 @@
-
 package ch16;
 
 import javafx.application.Application;
